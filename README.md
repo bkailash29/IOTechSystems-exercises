@@ -1,5 +1,7 @@
 # Exercise 01 Solution
 
+Author: Kailash Balachandiran
+
 This is a solution in Go by Kailash Balachandiran to complete the tasks mentioned in Exercise 01.
 
 ## Prerequisites
