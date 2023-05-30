@@ -18,3 +18,5 @@ The program reads the data from the `data.json` file, discards devices with time
 
    ```bash
    git clone https://github.com/your-username/your-repository.git
+   
+2. Run the program
